@@ -18,15 +18,10 @@ A structured, long-term self-study course: from basic Python + ML to robotics, c
 | 7 | Robot learning & embodied AI — RL, imitation learning, VLAs | 10 |
 | 8 | Specialization (humanoids 🦿 / drones 🚁) + startup thinking | ongoing |
 
-Full details: [`docs/00-roadmap.md`](docs/00-roadmap.md)
-
 ## 📁 Structure
 
 ```
 docs/
-  00-roadmap.md        master plan
-  hardware-plan.md     what to buy, when
-  resources.md         books, courses, videos, papers
   sessions/phase-X/    one lesson file per day (day-01.md, day-02.md, ...)
 code/phase-X/day-NN/   exercises (starter code with TODOs)
 solutions/             answer keys

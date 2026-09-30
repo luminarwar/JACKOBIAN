@@ -21,3 +21,8 @@ private/
 *.pt
 *.pth
 *.ckpt
+
+# Planning docs (kept local only)
+docs/00-roadmap.md
+docs/hardware-plan.md
+docs/resources.md
