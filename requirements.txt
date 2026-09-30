@@ -1,0 +1,7 @@
+# Python 3.12 — install with:  uv pip install -r requirements.txt   (or: pip install -r requirements.txt)
+# New packages get added here as the roadmap needs them (mujoco, opencv-python, gymnasium, ...).
+numpy>=2.0
+matplotlib>=3.9
+scipy>=1.13
+jupyterlab>=4.0
+ipykernel>=6.0

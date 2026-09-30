@@ -1,0 +1,23 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private: personal info + progress (never pushed)
+private/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
+
+# Big generated files (videos, sim recordings, model weights)
+*.mp4
+*.gif
+*.pt
+*.pth
+*.ckpt
