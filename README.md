@@ -16,7 +16,7 @@ A structured, long-term self-study course: from basic Python + ML to robotics, c
 | 5 | Perception & state estimation — OpenCV, Kalman filters, SLAM | 6 |
 | 6 | Linux + ROS 2 | 5 |
 | 7 | Robot learning & embodied AI — RL, imitation learning, VLAs | 10 |
-| 8 | Specialization (humanoids 🦿 / drones 🚁) + startup thinking | ongoing |
+| 8 | Specialization (humanoids 🦿 / drones 🚁)  | ongoing |
 
 ## 📁 Structure
 
